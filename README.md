@@ -1,4 +1,9 @@
 ### Hi there 👋
 
-I'm the co-founder of [Ionic](https://ionic.io/), creators of [Ionic Framework](https://ionicframework.com/), [Stencil](https://stenciljs.com/), and [Capacitor](https://capacitorjs.com/), a suite of technologies to help web developers build awesome cross-platform apps.
+I'm the co-founder of [Ionic](https://ionic.io/), creators of awesome cross-platform app development tools for web developers, including [Ionic Framework](https://ionicframework.com/), [Stencil](https://stenciljs.com/), [Capacitor](https://capacitorjs.com/), and [Appflow](https://useappflow.com/).
 
+I also periodically blog about personal topics at [maxlynch.com](https://maxlynch.com/).
+
+I tweet a lot, follow me over at [@maxlynch](https://twitter.com/maxlynch).
+
+Outside of work, I'm a huge soccer/football fan and mainly follow Manchester United. I also love gaming, film photography (follow me on [Flickr](https://flickr.com/photos/techrolla) and [Instagram](https://instagram.com/maxlynch)), and talking startups.
