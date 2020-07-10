@@ -6,4 +6,4 @@ I also periodically blog about personal topics at [maxlynch.com](https://maxlync
 
 I tweet a lot, follow me over at [@maxlynch](https://twitter.com/maxlynch).
 
-Outside of work, I'm a huge soccer/football fan and mainly follow Manchester United. I also love gaming, film photography (follow me on [Flickr](https://flickr.com/photos/techrolla) and [Instagram](https://instagram.com/maxlynch)), and talking startups.
+Outside of work, I'm a huge soccer fan and follow Manchester United. I also love gaming, film photography (follow me on [Flickr](https://flickr.com/photos/techrolla) and [Instagram](https://instagram.com/maxlynch)), and talking startups.
