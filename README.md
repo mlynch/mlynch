@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm the co-founder and CEO of [Ionic](https://ionic.io/), creators of awesome cross-platform app development tools for web developers.
+Past: Co-founded [Ionic](https://ionic.io/), created [Capacitor](https://capacitorjs.com/).
 
 Follow me over at [@maxlynch](https://twitter.com/maxlynch).
