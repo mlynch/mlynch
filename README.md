@@ -1,4 +1,4 @@
-Working on something new: [Teamsake](https://www.teamsake.com/), a set of fun and useful Slack apps for building happier and more productive remote teams.
+Working on something new.
 
 Past: Co-founded [Ionic](https://ionic.io/), created [Capacitor](https://capacitorjs.com/).
 
